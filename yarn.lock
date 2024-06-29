@@ -9336,10 +9336,10 @@ qs@6.11.0:
   dependencies:
     side-channel "^1.0.4"
 
-qs@6.7.3:
-  version "6.7.3"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.7.3.tgz#67634d715101aa950601f58dbef353b7e1696b95"
-  integrity sha512-WBoQWf5L/UOLqUj8Mvr4Om7J+ZTCqPbYPHyeLNRS9t9Q3M3/o/9ctpWnlo8yyETPclx7FhH5LidjKKJa9kdSRQ==
+qs@6.8.3:
+  version "6.8.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.8.3.tgz#c1909067d1f6c2f62f9bde1c44b44c72d2fc7a41"
+  integrity sha512-lvnoy9TgoYNQLYY6Ba4ptroTR9ptMkMQuXLxH4oppEQtglfAop+ZaC0dtAgY75rarH73CPu1eq3XrtzI/zZYmA==
 
 qs@~6.5.2:
   version "6.5.2"
